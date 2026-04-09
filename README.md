@@ -15,3 +15,6 @@ The data analysis for this project is divided into two main parts:
 - **Contents**: Integration scripts and data processing files.
 
 For more detailed information, please refer to the respective scripts and documentation within this repository.
+
+## Contributors
+Leijie Li led the cross-integration analysis and developed the codebase.
